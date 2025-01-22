@@ -1,7 +1,7 @@
 # Armenian Handwritten Letter Recognition Using CNN
 
 This project implements a Convolutional Neural Network (CNN) to recognize handwritten Armenian letters from images.
-It leverages TensorFlow/Keras for building and training the deep learning model.The dataset contains 77 classes corresponding to the Armenian alphabet.
+It leverages PyTorch for building and training the deep learning model.The dataset contains 77 classes corresponding to the Armenian alphabet.
 
 ---
 
